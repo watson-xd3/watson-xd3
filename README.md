@@ -14,7 +14,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">Watson-xd3, also known as WatsonFourpence, coming from Zimbabwe🇿🇼. He is the mastermind behind WATSON-XD-BOT and a prominent figure in the field of ethical hacking. Renowned for his creativity, innovation, and unwavering dedication to knowledge, watsonxd inspires others through his expertise and passion for technology.!</p>
+<p align="left">watson-xd3, also known as WatsonFourpence, coming from Zimbabwe🇿🇼. He is the mastermind behind WATSON-XD-BOT and a prominent figure in the field of ethical hacking. Renowned for his creativity, innovation, and unwavering dedication to knowledge, watsonxd inspires others through his expertise and passion for technology.!</p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things; I believe that every day is a learning opportunity.
